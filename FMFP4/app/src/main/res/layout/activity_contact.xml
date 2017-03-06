@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.jatin.fmfp.ContactActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/contactus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CONTACT US"
+            android:textStyle="bold"
+            android:textColor="#cb1110"
+            android:textSize="40dp"
+            android:textAlignment="center"
+            android:textColorHighlight="#661188"
+            />
+
+    <TextView
+        android:id="@+id/linkwebsite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="https://fmfp2016.in"
+        android:autoLink="web"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColorLink="#1122ff"
+        android:textAlignment="center"
+        android:layout_marginTop="25dp"
+        />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Akshoy Ranjan Paul"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:textAlignment="center"
+                android:layout_marginTop="25dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Organising Secretary"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:textAlignment="center"
+                android:layout_marginTop="3dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="MNNIT Allahabad - 211004"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:textAlignment="center"
+                android:layout_marginTop="3dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Telephone :- +919336060762 "
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:textAlignment="center"
+                android:layout_marginTop="3dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Email :- fmfp2016@gmail.com"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#333333"
+                android:textAlignment="center"
+                android:layout_marginTop="3dp"
+                />
+
+            <ImageButton
+                android:id="@+id/fblink"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:src="@mipmap/fb"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                />
+
+        </LinearLayout>
+        </ScrollView>
+</RelativeLayout>

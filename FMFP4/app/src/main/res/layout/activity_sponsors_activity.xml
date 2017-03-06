@@ -1,0 +1,108 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.AboutActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="DIAMOND\nSPONSORS"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/ansys"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/ansys"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" ANSYS is the global leader in engineering simulation. They help the world’s most innovative companies deliver radically better products to their customers. By offering the best and broadest portfolio of engineering simulation software,they help them solve the most complex design challenges and engineer products limited only by imagination."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+             />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffd600"
+            android:gravity="center"
+            android:text="GOLD\nSPONSORS"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/tsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:src="@mipmap/tsi"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TSI Inc. serves a global market by investigating, identifying and solving measurement problems. As an industry leader in the design and production of precision measurement instruments, TSI partners with research institutions and customers around the world to set the standard for measurements relating to aerosol science, air flow, chemical analysis, indoor air quality, fluid dynamics, biohazard detection, and even scrap metal sorting and plastics identification."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#adadad"
+            android:gravity="center"
+            android:text="SILVER\nSPONSORS"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/innovent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/innovent"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INNOVENT Engineering Solutions is an ISO 9001 2008 certified company for original creation of engineering programs, supply of simulation technology and engineering consultation and is also a member of NSIC. INNOVENT has the pedigree of successfully building the simulation culture and sustaining it with continuous support across the Indian academia including IISc, IIT’s and NIT’s. They also provide certification programs for young engineers on some of the frontier areas of engineering and technology such as: composites, advanced vibrations, rotor dynamics, fatigue and fracture, Non-linear analysis, joint technology and turbulence."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#e0e0e0"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

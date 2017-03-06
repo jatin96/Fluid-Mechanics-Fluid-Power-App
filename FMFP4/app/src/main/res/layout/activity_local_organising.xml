@@ -1,0 +1,647 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.Committees.LocalOrganisingActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="Local Organizing Committee"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.N. Sawarkar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg."
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Abhishek Kumar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Applied Mechanics "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ajaya Bharti"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Applied Mechanics "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ankur Gaur"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg. "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asheesh Kumar Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Registrar, MNNITA"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B. Vasu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mathematics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bireswar Paul"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gorakh Nath"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mathematics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Harender Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="J.N. Gangwar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K.K. Shukla"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K.N. Pandey"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Applied Mechanics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mohd. Siraj Alam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mukul Shukla"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="N. K. Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Biotechnology "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pramod Kumar Yadav"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mathematics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.C. Vaishya"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Civil Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.K. Tripathi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Electrical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.M. Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Civil Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ramesh Pandey"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Applied Mechanics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.J. Pawar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Applied Mechanics "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sadhana Sachan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sameer Saraswati"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shabih-Ul Hasan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shivesh Sharma"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Biotechnology "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Suantak Kamsonlian"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sushil Kumar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Chemical Engg."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="V. R. Komma"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Mechanical Engg. "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vishnu Agawral"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Department of Biotechnology "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

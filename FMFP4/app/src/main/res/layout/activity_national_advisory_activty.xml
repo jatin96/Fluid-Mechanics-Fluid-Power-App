@@ -1,0 +1,1151 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.Committees.NationalAdvisoryActivty" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="National\nAdvisory"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A. L. Chandraker"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vice President, MAN Turbomachinery India Pvt Ltd."
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Adnan Qayoum"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, National Institute of Technology Srinagar (J and K)"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Amaresh Dalal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asssociate Professor, Indian Institute of Technology Guwahati"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Arun Kumar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MNRE Chair Professor, Alternate Hydro Energy Centre, Roorkee"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Asis Mazumdar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Jadavpur University, Kolkata"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Atul Sharma"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B.K. Gandhi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B.T.N. Sridhar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Madras Institute of Technology, Chennai"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="B VSSS Prasad"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Madras"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bireswar Majumdar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Jadavpur University, Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="C.R. Rao"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor Emeritus, Centurion University of Technology and Management, Odisha"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="C.S.P. Ojha"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Debasis Chakraborty"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Technology Director, Defense Research and Development Lab., Hyderabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Debabrata Datta"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scientist and Head, Radiological Physics and Adviosry Division, BARC Mumbai"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="G. Jagadeesh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Science, Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="G.S. Bhat"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor and Chairman, Centre for Atmospheric and Oceanic Sciences, IISc. Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jacob Chandapillai"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Director, Fluid Control Research Institute, Palakkad (Kerala)"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jaywant H. Arakeri"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Science, Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jatinder Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Senior Secretary- CSR, Innovation, Education and Skill Development, PHD Chambers of Commerce and Industry, New Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jyotirmay Banerjee"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Associate Professor, Sardar Vallabhbhai National Institute of Technology Surat"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="I.K. Bhat"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Director, Malaviya National Institute of Technology Jaipur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KDP Nigam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K. P. Sinhamahapatra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HAL Chair Professor, Indian Institute of Technology Kharagpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K. Muralidhar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K.C. Sahu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Head, Department of Chemical Engg., IIT Hyderabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kannan Iyer"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Krishna Murari Pandey"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, National Institute of Technology Silchar"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Milind Atrey"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institte of Technology Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P.K. Panigrahi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P.K. Vijayan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scientist Reactor Engineering Division, BARC Mumbai"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="P.L. Patel"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Sardar Vallabbhai National Institute of Technology Surat"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pradip Dutta"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Science, Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.P. Saini"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Alternate Hydro Energy Centre, Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rajat Gupta"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Director, National Institute of Technology Srinagar (J and K)"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S. Arunachalam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Director, Jaypee Wind Engineering Application Centre, JUET Guna (M.P.)"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.A. Channiwala"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Sardar Vallabbhai National Institute of Technology Surat"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S. Mohan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Madras"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.K. Som"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Kharagpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.V. Prabhu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sanjay Kumar Jain"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scientist-G, National Institute of Hydrology, Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sanjay Mittal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sanjeev Sanghi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sekhar Majumdar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Nitte Meenakshi Institute of Technology, Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Shyam Shukla"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="General Manager (CRED), Kirloskar Brothers Limited, Pune"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sidhnath Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sudhir Kumar Mishra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CEO and MD, BrahMos Aerospace, New Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Suman Chakraborty"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Indian Institute of Technology Kharagpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ugur Guven"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, University of Petroleum and Energy Studies, Dehradun"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="V.K. Agarwal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor and Head (ITMMEC), Indian Institute of Technology Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="V. Seshadri"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor Emeritus, MIT Mysore (Karnataka)"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ved Prakash Mishra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vice President, Reliance Research and Development Centre, Navi Mumbai"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vishnu Prasad"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Maulana Azad National Institute of Technology Bhopal"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vikas Janardhan Lakhera"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor,Nirma University, Ahmedabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

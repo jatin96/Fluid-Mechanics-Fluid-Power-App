@@ -1,0 +1,1193 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.Committees.TechnicalProgramActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="Technical Programme Committee"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. A.M. Pradeep"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Abhijit Kushari"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Kanpur "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Absar M. Lakhdawala"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nirma University "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Achintya Mukhopadhyay"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Adnan Qayoum"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIT Srinagar"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Amarnath Mullick"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NIT Durgapur "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Amit Agrawal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Amitava Datta"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Amaresh Dalal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Guwahati"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Amitabh Bhattacharya"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Anirban Guha"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Anuj Jain"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MNNIT Allahabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Anupam Dewan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Arnab Kumar Ray"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="JUET Guna"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Arul Prakash"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Madras"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Arun K. Saha"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Arun Mahalingam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NITK Surathkal"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Asis Mazumdar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Atul Sharma "
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Atul Srivastava"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. B.K. Gandhi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. BVSSS Prasad"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Madras"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Bireswar Majumdar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Blaise Nsom"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="University of Brest, France"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. C.S. Mathpati"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ICT Mumbai"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Christine Mounaïm-Rousselle"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Université d' Orléans, France"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Debasis Chakraborty"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DRDL Hyderabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Friedrich Leopold"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="French-German Research Institute of St. Louis (ISL), France"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Faik Hamad"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Teesside University, U.K."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Himadri Chattopadhyay"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. J. Banerjee"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SVNIT Surat"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. J.S. Jayakumar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Amrita University, Kerala"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. John Chai"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="University of Huddersfield, U.K."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. K. P. Sinhamahapatra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Kharagpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Manebendra Pathak"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Patna"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Prasad Patnaik B.S.V."
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Madras"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Rajneesh Bhardwaj"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Er. Rakesh Kumar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADE-DRDO, Bangalore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Rakesh Mishra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="University of Huddersfield, U.K."
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Ranjan Ganguly"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jadavpur University Kolkata"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Rishi Raj"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Patna"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Rupesh D. Shah"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SVNIT Surat"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. S. Arunachalam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="JUET Guna"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. S. Gopalakrishnan"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. S.V. Prabhu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Sanchayan Mukherjee"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KGEC Kalyani"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Sandip K. Saha"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Santosh K. Sahu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Indore"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Sawan S. Sinha"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Delhi"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Somnath Roy"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Patna"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Sridhar Balasubramanium"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bombay"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Prof. Subrata Sarkar"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Kanpur"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Sushanta Datta"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Roorkee"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Venugopal Arumuru"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="IIT Bhubaneswar"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dr. Vivek Kumar Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SAC-ISRO, Ahmedabad"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

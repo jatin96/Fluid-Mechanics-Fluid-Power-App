@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.jatin.fmfp.MainActivity"
+    tools:showIn="@layout/activity_main">
+    <LinearLayout
+        android:id="@+id/row1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <at.markushi.ui.CircleButton
+            android:id="@+id/map"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_weight="1"
+            android:padding="30dp"
+            android:src="@mipmap/map"
+            app:cb_color="#99CC00"
+            app:cb_pressedRingWidth="8dip"
+            />
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/about"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:layout_weight="1"
+            android:src="@mipmap/about"
+            app:cb_color="#ce93d8"
+            app:cb_pressedRingWidth="8dip"
+
+
+            />
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/committee"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:layout_weight="1"
+            android:src="@mipmap/committee"
+            app:cb_color="#e57373"
+            app:cb_pressedRingWidth="8dip"
+            />
+    </LinearLayout>
+    <!--.....................................................................................-->
+    <LinearLayout
+        android:id="@+id/row2"
+        android:layout_below="@+id/row1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Map"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Committees"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+
+        android:id="@+id/row3"
+        android:layout_below="@+id/row2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <at.markushi.ui.CircleButton
+            android:id="@+id/accomodation"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/accomodation"
+            app:cb_color="#dce775"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"/>
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/update"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/update"
+            app:cb_color="#80cbc4"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"
+            />
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/schedule"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/schedule"
+            app:cb_color="#b39ddb"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/row4"
+        android:layout_below="@+id/row3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Accomodation"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Update"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Schedule"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row5"
+        android:layout_below="@+id/row4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <at.markushi.ui.CircleButton
+            android:id="@+id/proceedings"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/proceedings"
+            app:cb_color="#bcaaa4"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"/>
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/transport"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/transportation"
+            app:cb_color="#ffccbc"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"
+            />
+
+        <at.markushi.ui.CircleButton
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:src="@mipmap/sponsor"
+            app:cb_color="#cfd8dc"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"
+            android:id="@+id/sponsors" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row6"
+        android:layout_below="@+id/row5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Proceedings"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Transport"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Sponsors"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/row7"
+        android:layout_below="@+id/row6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <at.markushi.ui.CircleButton
+            android:id="@+id/help"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:gravity="center"
+            android:src="@mipmap/help"
+            app:cb_color="#ffd54f"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1" />
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/announcement"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:gravity="center"
+            android:src="@mipmap/news"
+            app:cb_color="#b2ff59"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1"
+            />
+
+        <at.markushi.ui.CircleButton
+            android:id="@+id/contact"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:padding="30dp"
+            android:gravity="center"
+            android:src="@mipmap/contact"
+            app:cb_color="#84ffff"
+            app:cb_pressedRingWidth="8dip"
+            android:layout_weight="1" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/row8"
+        android:layout_below="@+id/row7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Help"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Announcement"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textAlignment="center"
+            />
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Contact Us"
+            android:textStyle="bold"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:textAlignment="center"
+            />
+
+    </LinearLayout>
+
+    <!--.....................................................................................-->
+
+
+    <!--.....................................................................................-->
+
+
+
+    <!--.....................................................................................-->
+
+    <!--.....................................................................................-->
+
+
+
+
+
+</RelativeLayout>

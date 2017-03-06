@@ -1,0 +1,123 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:id="@+id/linear"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e3f2fd"
+    >
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Need Help ?"
+        android:gravity="center"
+        android:id="@+id/t1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:background="#1a237e"
+        android:layout_marginBottom="15dp"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter your query here and we will try to help you out -"
+        android:id="@+id/t2"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:cursorVisible="false"
+        android:textColor="#0d47a1"
+        android:layout_marginBottom="40dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Name"
+        android:id="@+id/t3"
+        android:textStyle="bold"
+        android:textColor="#1565c0"
+        android:textSize="25dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/e1"
+        android:layout_marginBottom="25dp"
+        android:background="#fff"
+        android:textSize="25dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Email"
+        android:id="@+id/t4"
+        android:textStyle="bold"
+        android:textColor="#1565c0"
+        android:textSize="25dp" />
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/e2"
+        android:layout_marginBottom="25dp"
+        android:background="#fff"
+        android:textSize="25dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Your query goes here ....."
+        android:id="@+id/textView"
+        android:textStyle="bold"
+        android:textColor="#1565c0"
+        android:textSize="25dp"
+        android:layout_centerVertical="true"
+         />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/e3"
+        android:textSize="25dp"
+        android:typeface="serif"
+        android:background="#fff"
+        android:scrollHorizontally="false"
+        android:scrollbars="vertical"
+        android:singleLine="false" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SUBMIT"
+        android:textStyle="bold"
+        android:textSize="17dp"
+        android:layout_gravity="center"
+        android:id="@+id/submit"
+        android:textColor="#fff"
+        android:background="#3949ab" />
+
+
+</LinearLayout>
+    </ScrollView>

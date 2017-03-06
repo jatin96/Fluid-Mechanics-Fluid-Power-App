@@ -1,0 +1,124 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.AccomodationActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="Accomodation"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/ansys"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@mipmap/hotel"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Participants of FMFP-2016 are requested to contact the hotels directly through phone/email for booking. Rates may vary. For confirmed rate, please contact the hotel directly.The tariff shown here may be revised in October 2016."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="FMFP-2016 organizers won't involve in the hotel booking process. The participants need to pay the accommodation charges directly at their place of accommodation."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Since many hotels in Allahabad can also be booked through online portals like Makemytrip, Goibibo, OYOrooms, Cleartrip and many others and usually offers attractive discounts on the listed price, participants are suggested to check the prices in those websites before finalizing the booking."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The list contains a variety of prominent hotels in Allahabad. The distance of venue from all the hotels are within 3-8 km."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="There are several other economic hotels/lodges nearby Allahabad Railway Junction (ALD) costing approximately INR.400 - 1000/- within 200 meters to 2 Km distance. These hotels can be reached by walk or by rickshaw (Fare: INR.. 30 to 80) from the Junction."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Various localities around railway station where hotels/lodges are available: Johnson Ganj (1 Km), Civil Lines (1 km), Chowk (1.2 Km), Kotwali (1.5 Km), Katara (4 Km), Prayag (5 km). All the distances are from platform no. 1 of Allahabad Railway Junction."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The participants are also suggested to install OLA apps in the smartphone, as OLA provides 24*7 Cab / Auto-Rickshaw service in Allahabad at a very competitive price. The price of travelling between most of the listed hotels and conference venue using OLA cab/Autorickshaw varies between INR. 60 to Rs. 170."
+            android:textColor="#000"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <Button
+            android:id="@+id/hotels"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="List of Hotels"
+            android:background="#3f51b5"
+            android:textColor="#fff"
+            />
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

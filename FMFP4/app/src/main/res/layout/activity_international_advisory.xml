@@ -1,0 +1,482 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.Committees.InternationalAdvisoryActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="International\nAdvisory"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.C. Benim"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Dusseldorf University of Applied Sciences, Germany"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.K.M. Sadrul Islam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Islamic University of Technology, Bangladesh"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Blaise Nsom"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor,Université de Bretagne Occidentale, Brest, France"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Boo Cheong KHOO"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, National University of Singapore, Singapore"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ebrahim Shirani"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor Emeritus, Isfahan University of Technology, Iran"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Firoz Alam"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, RMIT University, Melbourne, Australia"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K. Ravindra"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Saint Louis University, St Louis USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Goodarz Ahmadi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Clarkson University, Potsdam, NY, USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="K.W. Chau"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, The Hong Kong Polytechnic University, Hong Kong"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kamran Mohseni"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, University of Florida, Gainesville, USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mohammad Najafi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, University of Texas at Arlington, USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Perumal Nithiarasu"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Swansea University, United Kingdom"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ramesh K. Agarwal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Washington University, St. Louis, USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rao S. Govindaraju"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Purdue University, USA"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ronald Ming Cho SO"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor Emeritus, The Hong Kong Polytechnic University, Hong Kong"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.B. Weerakoon"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, University of Peradeniya, Sri Lanka"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sharad Tripathi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="President Directeur General, Fluidyn, France"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theodore Stathopoulos"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Concordia University Montreal, Canada"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Victor V. Kozlov"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, ITAM, Russian Academy of Sciences, Siberian Branch, Novosibirsk, Russia"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="W. Malalasekera"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Loughborough University, United Kingdom"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Yukio Tamura"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor, Tokyo Polytechnic University, Japan"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+
+
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FMFP</string>
+    <string name="action_settings">About Developers</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="AboutMnnit">"\nIt was established as one of the seventeen Regional Engineering Colleges (RECs) of India in the year 1961 as a joint enterprise of Government of India and Government of Uttar Pradesh and as an associated college of University of Allahabad. On June 26, 2002 MNREC was transformed into National Institute of Technology and Deemed University fully funded by the Ministry of Human Resource Development (MHRD), Government of India. MNNITA is declared an Institute of National Importance by act of parliament in 2007. It is an institute with total commitment to quality and excellence in academic pursuits. The Institute now offers nine B.Tech., twenty M.Tech. Degree Programmes, MCA, MBA, M.Sc. (Mathematics and Scientific Computing) and Master of Social work (M.S.W.) programmes and also registers candidates for the Ph.D. degree in all 14 departments. For further information, please visit www.mnnit.ac.in"</string>
+    <string name="About">"\nEstablished in 1973, The National Society of Fluid Mechanics and Fluid Power (NSFMFP) is an registered society dedicated to fostering and advancing in all aspects of Fluid Mechanics and Fluid Power. The society organises annual conference for last 42 years regularly to promote research cooperation and networking. For more information, please visit http://www.me.iitb.ac.in/nsfmfp.\n"</string>
+    <string name="announcements">The organising committee expresses its sincere thanks to all the authors and contributors for their overwhelming response to the FMFP-2016. The conference has received over 600 articles and the official website of the conference (https://fmfp2016.in/) has received 30000 hits. The organising committee also appreciates all the members of technical programme committee and the reviewers for their kind efforts in meeting the deadline for the completion of the review process.
+
+Review decision of all the submitted papers have already been sent to the communicating authors. The last date for submitting 3-page, formatted, revised, full paper in PDF format is 30 September 2016. Please note that the PDF file is required to be uploaded through EasyChair link available in https://fmfp2016.in/papersub.php against the existing paper ID. No new submission or email submission will be entertained at this stage.
+
+We would also like to bring to kind attention to all the participants that the railway reservation for the journey on 13/14 December 2016 already open since 15/16 August 2016 (120 days in advance). All those who plan to travel by train to attend the conference are suggested to book their rail tickets at the earliest to avoid any rush/disappointment at a later date. Those who are planning to travel by air are also advised to book their tickets timely.
+
+Please note that MNNIT Allahabad has shortage of in-campus accommodation. Outstation participants are therefore requested to please visit the Accommodation webpage (https://fmfp2016.in/accommodation.php) for suggestions and book a hotel of their choice for stay. All hotels usually offer 15-25% discount on the listed price.
+
+Online Registration is now open with online payment facility. If the participants find it convenient, they may also pay the registration fees through NEFT/RTGS (for domestic participants) or through SWIFT(for foreign participants). The bank account and relevant details are available in https://fmfp2016.in/sponsorship.php. The last date of early bird discount is 15 October, 2016
+
+FMFP-2016 will be a major gathering of fluid mechanics research community in India and abroad. It will be a great opportunity for the industry to interact with the researchers working in diverse field of fluid mechanics. The organising committee welcomes active industry participation in the conference and sponsorship.
+
+For further assistance or query, please feel free to contact us at fmfp2016@gmail.com. We will be happy to help you.
+
+Look forward to meeting you in FMFP-2016.
+
+Organizing Secretary, FMFP-2016</string>
+</resources>

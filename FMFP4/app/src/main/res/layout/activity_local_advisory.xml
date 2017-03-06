@@ -1,0 +1,250 @@
+<com.nirhart.parallaxscroll.views.ParallaxScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:parallax_factor="1.9"
+    android:background="@mipmap/back"
+    tools:context="com.example.jatin.fmfp.Committees.LocalAdvisoryActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#0d47a1"
+            android:gravity="center"
+            android:text="Local\nAdvisory"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="40dp"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="S.K. Duggal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Director ,MNNIT Allahabad "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A.K. Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Head (Civil Engineering) "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Geetika"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dean (Academic) "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="M.M. Gore"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dean (Resource Generation and International Affairs) "
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rajiv Tripathi"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Professor Incharge (Training and Placement) "
+            android:textAlignment="center"
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rakesh Narain"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Head (Mechanical Engineering) "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.K. Singh"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dean (Students Affairs) "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="R.P. Tewari"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Head (Applied Mechanics) "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vineeta Agarwal"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dean (Research and Consultancy) "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Vinod Yadava"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textAlignment="center"
+            android:background="#e3f2fd"
+            android:padding="5dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dean (Planning and Development) and TEQIP-II Coordinator "
+            android:textSize="20dp"
+            android:background="#ffe082"
+            android:padding="5dp"
+            android:layout_marginBottom="50dp"
+            />
+
+
+
+    </LinearLayout>
+
+</com.nirhart.parallaxscroll.views.ParallaxScrollView>
